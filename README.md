@@ -1,2 +1,2 @@
 # CyberG
-Alumnas: Avina, Gaviña, Olivares, Gonzalez y Colimodio
+Alumnas: Avila, Gaviña, Olivares, Gonzalez y Colimodio
